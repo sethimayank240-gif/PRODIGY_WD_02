@@ -8,9 +8,9 @@ Clean and responsive UI
 
 📂 Project Structure
 stopwatch-webapp/
-│── index.html   # HTML structure
-│── style.css    # Styling (UI/UX)
-│── script.js    # Stopwatch logic
+│── index6.html   # HTML structure
+│── style3.css    # Styling (UI/UX)
+│── script5.js    # Stopwatch logic
 │── README.md    # Project documentation
 
 🚀 How to Run
